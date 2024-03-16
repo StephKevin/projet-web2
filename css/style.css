@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+}
+header{
+    background:  url(../images/backhead.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 300px !important;
+    color: white;
+    padding: 50px;
+}
+.btn-info{
+    color: #fc84a2;
+    background-color: white;
+    border-color: white;
+    border-radius: 50px;
+   
+}
+.btn-info:hover{
+    background-color: #fc84a2;
+    color: white;
+    border-color: #fc84a2;
+}
+#headi{
+    width: 200px;
+}
+img{
+    margin-top: 10px;
+}
+#sec1{
+    padding: 20px;
+}
+a{
+    color: #fc84a2;
+}
+a:hover{
+    color: #fc84a2;
+}
+#sec2{
+    background: #fc84a2;
+}
+.loko{
+    background: white;
+    padding: 10px;
+}
+.loko img{
+    border-radius: 100%;
+    overflow: hidden;
+}
